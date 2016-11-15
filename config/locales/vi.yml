@@ -1,0 +1,3 @@
+   # file: config/locales/vi.yml
+   vi:
+     hello: "Xin chào <@%{user}>"

@@ -13,3 +13,6 @@ module SlackRubyBot
     # -- all .rb files in that directory are automatically loaded.
   end
 end
+   # this step is optional until we touch controllers
+   # add this line to the config blog in config/application.rb
+   I18n.available_locales = [:vi, :en]
